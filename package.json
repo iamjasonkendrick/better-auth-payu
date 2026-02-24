@@ -6,6 +6,10 @@
   "main": "dist/index.mjs",
   "types": "dist/index.d.mts",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamjasonkendrick/better-auth-payu.git"
+  },
   "keywords": [
     "payu",
     "auth",
