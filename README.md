@@ -1,4 +1,4 @@
-# better-auth-payu
+# better-auth-payu(Community Plugin)
 
 A comprehensive [PayU](https://payu.in) plugin for [Better Auth](https://better-auth.com) — subscriptions via Standing Instructions (SI/e-Mandate), payments, refunds, webhooks, and organization billing out of the box.
 
